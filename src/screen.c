@@ -27,7 +27,7 @@
 #if defined(DISPLAY_PIN_SCK)
 
 #ifndef BANNER_TEXT
-#define BANNER_TEXT "OTAFix made by DL1RF"
+#define BANNER_TEXT "made by oltaco / github.com/oltaco"
 #endif //BANNER_TEXT
 
 #include <string.h>
